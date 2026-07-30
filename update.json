@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDEyMUFFMEUxMjZEMDA2MzMKUldRekJ0QW00ZUFhRW03ZlpNZENBRkh4VlhwUTlxekhONmRzMVNodUc3dHUrRXpqckNtdDVFOTUK",
-      "url": "https://github.com/USERNAME/REPO/releases/download/v0.2.0/RLink_0.2.0_x64_en-US.msi.zip"
+      "url": "https://github.com/agungsan147/RLink/releases/download/v0.2.0/RLink_0.2.0_x64_en-US.msi.zip"
     }
   }
 }
